@@ -385,7 +385,7 @@ label,
 .visual-refresh .emojiPicker_c0e32c,
 .visual-refresh .header_c0e32c,
 .visual-refresh .wrapper__14245,
-.visual-refresh .wrapper__0d1ef,
+.visual-refresh .wrapper_d852db,
 .visual-refresh .inspector_aeaaeb {
   background-color: var(--color-high);
 }
@@ -1676,7 +1676,7 @@ button.button__67645 .lottieIcon__5eb9b {
   background: transparent;
 }
 
-/* .container_a244c3 { */
+/* .container__23ba6 { */
 /* border-radius: 0; */
 /* padding: 0; */
 /* margin-left: 36px; */
@@ -2148,8 +2148,8 @@ button.button__67645 .lottieIcon__5eb9b {
   background-color: var(--color-mid);
 }
 
-.allPerksScroller_ca1a02,
-.mainPageScroller_ca1a02,
+.allPerksScroller__80907,
+.mainPageScroller__80907,
 .visual-refresh .shop__08415,
 .applicationStore_f07d62,
 .scroller__4a84a,
